@@ -1,0 +1,6 @@
+{
+  "name": "UPB Inteligencia Competitiva - Postgrado",
+  "description": "Plataforma de inteligencia de mercado y análisis comparativo para Diplomados de la UPB frente a la oferta universitaria boliviana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
